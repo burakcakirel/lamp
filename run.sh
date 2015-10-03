@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 VOLUME_HOME="/var/lib/mysql"
 
